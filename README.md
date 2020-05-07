@@ -58,16 +58,16 @@ K-topo es un proyecto construido con un micro como **arduino** controlador contr
 * hc-06 para -> enviar pedidos y órdenes
 * L298N -> para control de motor de dirección
 
-# Puedo probar este bulbo posterior
-sí, intente con [simulación de k-topo] (https://www.tinkercad.com/things/5j4cR9FPQU4-copy-of-bodacious-bigery/editel?tenant=circuits?sharecode=te8-tz1xNuKy-R67Spk6NSvJUPhjtFy7mVeZz6IW-_Q) a thinkercad puedes ver cómo funciona el K-topo
+# Puedo probar esto  antes de contruirlo
+sí, intente con [simulación de k-topo](https://www.tinkercad.com/things/5j4cR9FPQU4-copy-of-bodacious-bigery/editel?tenant=circuits?sharecode=te8-tz1xNuKy-R67Spk6NSvJUPhjtFy7mVeZz6IW-_Q) este link va a thinkercad puedes ver cómo funciona el K-topo
 
 # ¿Cómo puedo controlarlo?
 
 necesita conectarse a K-topo a través de bluetooth y puede escribir estos comandos
-* 0 -> posponer
-* 1 -> poner
-* m -> aplazar taladro
-* M -> poner taladro
+* 0 -> off
+* 1 -> prender
+* m -> apagar taladro
+* M -> prende taladro
 * A -> avanzar
 * a -> volver
 * i -> gire a la izquierda (moderado)
