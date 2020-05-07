@@ -30,8 +30,8 @@ void setup() {
 void loop() {
   switch(Serial.read()){
     case '0':
-    o ();
-    break;
+    break
+    o ();;
      case'1':
     l ();
       break;
@@ -55,6 +55,13 @@ void loop() {
      case'I':
      izqierdaloca();
       break;
+    case'd':
+    derecha90 ();
+    break;
+     case'D':
+     derechaloca();
+      break;
+
      case'S':
      STOP ();
      }
@@ -198,7 +205,7 @@ void  izqierdaloca (){
       digitalWrite(ladoizquerdain2, LOW);
       digitalWrite(ladoizquerdain1, LOW);
       analogWrite(ladoizquierdaena,255);
-      Serial.println("izquierda");
+      Serial.println("derecha");
   
  }
 void  derechaloca (){
@@ -209,6 +216,7 @@ void  derechaloca (){
       digitalWrite(ladoizquerdain2, LOW);
       digitalWrite(ladoizquerdain1, HIGH);
       analogWrite(ladoizquierdaena,255);
-      Serial.println("izqierdaloca");
+      Serial.println("derechaloca");
   
  }
+
