@@ -24,17 +24,17 @@ yes try with [simulation of k-topo](https://www.tinkercad.com/things/5j4cR9FPQU4
 # how can i control it
 
 you need conect to K-topo through bluetooth and can write this commands
-    * 0 --> put off
-    * 1 --> put on
-    * m --> put off drill
-    * M --> put on drill
-    * A --> go forward
-    * a --> go back
-    * i --> turn left (moderate)
-    * I --> make circules in left direction
-    * d --> turn rigth (moderate)
-    * D --> make circules in rigth direccion
-    * S --> stop
+* 0 --> put off
+* 1 --> put on
+* m --> put off drill
+* M --> put on drill
+* A --> go forward
+* a --> go back
+* i --> turn left (moderate)
+* I --> make circules in left direction
+* d --> turn rigth (moderate)
+* D --> make circules in rigth direccion
+* S --> stop
 ### contributes with donations
 	
 	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
