@@ -19,7 +19,7 @@ K-topo is microcontroller like **arduino**  proyect with  bluetooth controlled  
   * L298N  -->for controll motor direccion
   
 # i can test this afeter bulid 
-yes try with [simulation of k-topo](https://www.tinkercad.com/things/5j4cR9FPQU4-copy-of-bodacious-bigery/editel?tenant=circuits?sharecode=te8-tz1xNuKy-R67Spk6NSvJUPhjtFy7mVeZz6IW-_Q) this link go to thinkercad you can see how work the K-topo
+yes try with [simulation of k-topo](https://www.tinkercad.com/things/5j4cR9FPQU4) this link go to thinkercad you can see how work the K-topo
 
 # how can i control it
 
@@ -59,7 +59,7 @@ K-topo es un proyecto construido con un micro como **arduino** controlador contr
 * L298N -> para control de motor de dirección
 
 # Puedo probar esto  antes de contruirlo
-sí, intente con [simulación de k-topo](https://www.tinkercad.com/things/5j4cR9FPQU4-copy-of-bodacious-bigery/editel?tenant=circuits?sharecode=te8-tz1xNuKy-R67Spk6NSvJUPhjtFy7mVeZz6IW-_Q) este link va a thinkercad puedes ver cómo funciona el K-topo
+sí, intente con [simulación de k-topo](https://www.tinkercad.com/things/5j4cR9FPQU4) este link va a thinkercad puedes ver cómo funciona el K-topo
 
 # ¿Cómo puedo controlarlo?
 
