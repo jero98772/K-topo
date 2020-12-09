@@ -78,4 +78,4 @@ necesita conectarse a K-topo a través de bluetooth y puede escribir estos coman
 
 ### contibuye con donaciones 
 	
-	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
+	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
