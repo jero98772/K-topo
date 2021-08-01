@@ -35,9 +35,7 @@ you need conect to K-topo through bluetooth and can write this commands
 * d --> turn rigth (moderate)
 * D --> make circules in rigth direccion
 * S --> stop
-### contributes with donations
-	
-	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
+* 
 # K-topo en Español( Spanish)
 es un pequeño proeycto que muestra que los sueños se pueden cumplir
 
@@ -75,7 +73,3 @@ necesita conectarse a K-topo a través de bluetooth y puede escribir estos coman
 * d -> girar a la derecha (moderado)
 * D -> hacer circuitos en la dirección correcta
 * S -> detener
-
-### contibuye con donaciones 
-	
-	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
