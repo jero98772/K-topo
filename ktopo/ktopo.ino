@@ -30,8 +30,8 @@ void setup() {
 void loop() {
   switch(Serial.read()){
     case '0':
-    break
-    o ();;
+    break;
+    o ();
      case'1':
     l ();
       break;
