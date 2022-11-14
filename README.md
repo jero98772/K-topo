@@ -1,4 +1,7 @@
 # K-topo in English(Ingles)
+
+[video](https://youtu.be/gH_ExTOIeS0)
+
 a little project which represents that dreams can be fulfilled
 
 # what is K-topo
@@ -37,6 +40,9 @@ you need conect to K-topo through bluetooth and can write this commands
 * S --> stop
 * 
 # K-topo en Español( Spanish)
+
+[video](https://youtu.be/gH_ExTOIeS0)
+
 es un pequeño proeycto que muestra que los sueños se pueden cumplir
 
 # que es K-topo
